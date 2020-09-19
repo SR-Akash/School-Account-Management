@@ -1,0 +1,198 @@
+E:\Final_LAB_Visual\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.deps.json
+E:\Final_LAB_Visual\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.runtimeconfig.json
+E:\Final_LAB_Visual\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.runtimeconfig.dev.json
+E:\Final_LAB_Visual\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.dll
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.csprojAssemblyReference.cache
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.csproj.CoreCompileInputs.cache
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorAssemblyInfo.cache
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorAssemblyInfo.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.AssemblyInfoInputs.cache
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.AssemblyInfo.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.TagHelpers.input.cache
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.TagHelpers.output.cache
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorCoreGenerate.cache
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorTargetAssemblyInfo.cache
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorTargetAssemblyInfo.cs
+E:\Final_LAB_Visual\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.pdb
+E:\Final_LAB_Visual\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.Views.dll
+E:\Final_LAB_Visual\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.Views.pdb
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.Views.pdb
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.dll
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.pdb
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.csproj.CopyComplete
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Delete.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Details.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Edit.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Create.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Delete.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Details.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Edit.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Index.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Create.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Delete.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Details.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Edit.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Index.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Create.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Delete.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Details.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Edit.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Index.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Create.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Delete.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Details.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Edit.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AccountsLayout.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_StudentsLayout.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Home.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Show.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\AddUser.g.cshtml.cs
+E:\Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.deps.json
+E:\Test_Final_LAB_Visual\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.runtimeconfig.json
+E:\Test_Final_LAB_Visual\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.runtimeconfig.dev.json
+E:\Test_Final_LAB_Visual\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.dll
+E:\Test_Final_LAB_Visual\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.pdb
+E:\Test_Final_LAB_Visual\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.Views.dll
+E:\Test_Final_LAB_Visual\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.Views.pdb
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.csprojAssemblyReference.cache
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.csproj.CoreCompileInputs.cache
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorAssemblyInfo.cache
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorAssemblyInfo.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.AssemblyInfoInputs.cache
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.AssemblyInfo.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.TagHelpers.input.cache
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.TagHelpers.output.cache
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorCoreGenerate.cache
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Create.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Delete.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Details.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Edit.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Index.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Create.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Delete.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Details.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Edit.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Index.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AccountsLayout.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_StudentsLayout.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Create.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Delete.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Details.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Edit.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Index.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Create.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Delete.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Details.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Edit.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Home.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Show.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\AddUser.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Delete.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Details.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Edit.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorTargetAssemblyInfo.cache
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorTargetAssemblyInfo.cs
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.Views.pdb
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.dll
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.pdb
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.csproj.CopyComplete
+E:\Test_Final_LAB_Visual\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PaymentLayout .g.cshtml.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\bin\Debug\netcoreapp2.1\appsettings.json
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.deps.json
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.runtimeconfig.json
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.runtimeconfig.dev.json
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.dll
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.pdb
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.Views.dll
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\bin\Debug\netcoreapp2.1\G2_UMA.Views.pdb
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.csprojAssemblyReference.cache
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.AssemblyInfoInputs.cache
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.AssemblyInfo.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.csproj.CoreCompileInputs.cache
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorAssemblyInfo.cache
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorAssemblyInfo.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.TagHelpers.input.cache
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.TagHelpers.output.cache
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorCoreGenerate.cache
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Create.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Delete.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Details.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Edit.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Fees\Index.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Create.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Delete.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Details.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Edit.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Payments\Index.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AccountsLayout.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PaymentLayout .cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_StudentsLayout.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Create.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Delete.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Details.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Edit.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfoes\Index.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Create.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Delete.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Details.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Edit.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Home.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Students\Show.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\AddUser.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Delete.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Details.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Edit.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorTargetAssemblyInfo.cache
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.RazorTargetAssemblyInfo.cs
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.Views.pdb
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.dll
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.pdb
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.genruntimeconfig.cache
+E:\I U B A T\PPRROOJJEECCTT\Visual Project With Payment\G2B_UMA\G2_UMA\obj\Debug\netcoreapp2.1\G2_UMA.csproj.CopyComplete

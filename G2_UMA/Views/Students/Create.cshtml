@@ -1,0 +1,77 @@
+﻿@model G2_UMA.Models.Students
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<center><strong><h1 style="background-color:mediumspringgreen;">Admin Panel </h1></strong></center>
+
+<strong><h2>Create New Students</h2></strong> 
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Std_Id" class="control-label"></label>
+                <input asp-for="Std_Id" class="form-control" />
+                <span asp-validation-for="Std_Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Birth_Date" class="control-label"></label>
+                <input asp-for="Birth_Date" class="form-control" />
+                <span asp-validation-for="Birth_Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gender" class="control-label">Gender</label>
+                <select asp-for="Gender" class="form-control">
+                    <option value="">Select one</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Contact" class="control-label"></label>
+                <input asp-for="Contact" class="form-control" />
+                <span asp-validation-for="Contact" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Father_Name" class="control-label"></label>
+                <input asp-for="Father_Name" class="form-control" />
+                <span asp-validation-for="Father_Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Mother_Name" class="control-label"></label>
+                <input asp-for="Mother_Name" class="form-control" />
+                <span asp-validation-for="Mother_Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Class" class="control-label"></label>
+                <input asp-for="Class" class="form-control" />
+                <span asp-validation-for="Class" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="M_Id" class="control-label"></label>
+                <select asp-for="M_Id" class="form-control" asp-items="ViewBag.M_Id"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

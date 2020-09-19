@@ -1,0 +1,215 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification\ 
+for details on configuring this project to bundle and minify static web assets. */
+
+.our_act img {
+    width: 100%;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+element.style {
+}
+
+@media (min-width: 768px) .container {
+    max-width: 750px;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+.main-menu a, .main-menu li.active .sub-menu a, .main-menu li ul li:before, .site-header, .site-header a, .responsive_menu a, .responsive_menu a:hover {
+    color: #FFFFFF;
+}
+
+.site-header {
+    font-size: 12px;
+    border-bottom: 4px solid;
+}
+
+body {
+    color: #666666;
+    font-family: Open Sans;
+    font-weight: normal;
+    font-size: 13px;
+}
+
+body, .blog-list-meta a, .event-small-meta, .blog-grid-meta a, .lightBtn, .lightBtn:hover, .blog-categories ul li a, .comment-form label, .course-search-form label {
+    color: #666666;
+}
+
+body {
+    font: 13px/23px Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    word-wrap: break-word;
+    border-top: 4px solid;
+    font-family: Nikosh2,SolaimanLipi,Nikosh,NikoshBAN,Verdana,sans-serif;
+    font-size: 100%;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica-, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #333333;
+    background-color: white;
+}
+
+html {
+    font-size: 62.5%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+.container:before, .container:after {
+    content: " ";
+    display: table;
+}
+
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.container:after {
+    clear: both;
+}
+
+.container:before, .container:after {
+    content: " ";
+    display: table;
+}
+
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+box-sizing:
+border-box
+;
+color:
+rgb(255, 255, 255)
+;
+display:
+block
+;
+font-family:
+"Open Sans"
+;
+font-size:
+12px
+;
+font-stretch:
+100%
+;
+font-style:
+normal
+;
+font-variant-caps:
+normal
+;
+font-variant-east-asian:
+normal
+;
+font-variant-ligatures:
+normal
+;
+font-variant-numeric:
+normal
+;
+font-weight:
+400
+;
+height:
+138px
+;
+line-height:
+23px
+;
+margin-left:
+22px
+;
+margin-right:
+22px
+;
+max-width:
+750px
+;
+overflow-wrap:
+break-word
+;
+padding-left:
+15px
+;
+padding-right:
+15px
+;
+text-size-adjust:
+100%
+;
+width:
+750px
+;
+-webkit-font-smoothing:
+antialiased
+;
+-webkit-tap-highlight-color:
+rgba(0, 0, 0, 0)
+;

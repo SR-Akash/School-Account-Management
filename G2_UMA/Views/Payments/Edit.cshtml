@@ -1,0 +1,46 @@
+﻿@model G2_UMA.Models.Payment
+
+@{
+    Layout = "~/Views/Shared/_AccountsLayout.cshtml";
+}
+
+<center><strong><h1 style="background-color:mediumspringgreen;">Account Officer Panel </h1></strong></center>
+<strong><h2>Update Students Payment</h2> </strong> 
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="id" />
+            <div class="form-group">
+                <label asp-for="Std_Id" class="control-label"></label>
+                <select asp-for="Std_Id" class="form-control" asp-items="ViewBag.Std_Id"></select>
+                <span asp-validation-for="Std_Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fee_Id" class="control-label"></label>
+                <select asp-for="Fee_Id" class="form-control" asp-items="ViewBag.Fee_Id"></select>
+                <span asp-validation-for="Fee_Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Amount" class="control-label"></label>
+                <input asp-for="Amount" class="form-control" />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="M_Id" class="control-label"></label>
+                <select asp-for="M_Id" class="form-control" asp-items="ViewBag.M_Id"></select>
+                <span asp-validation-for="M_Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

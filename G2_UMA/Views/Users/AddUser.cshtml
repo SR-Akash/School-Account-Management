@@ -1,0 +1,46 @@
+﻿@model G2_UMA.Models.User
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<center><strong><h1 style="background-color:royalblue;">Admin Panel </h1></strong></center>
+<strong><h2>Create New User </h2></strong>
+
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="AddUser">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="username" class="control-label"></label>
+                <input asp-for="username" class="form-control" />
+                <span asp-validation-for="username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="pass" class="control-label"></label>
+                <input asp-for="pass" class="form-control" />
+                <span asp-validation-for="pass" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="type" class="control-label">User Type</label>
+                <select asp-for="type" class="form-control">
+                    <option value="">Select one</option>
+                    <option value="Admin">Admin</option>
+                    <option value="Accounts">Accounts Officer</option>
+                    <option value="Student">Students</option>
+                </select>
+
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">View Previous Created User</a>
+</div>
+

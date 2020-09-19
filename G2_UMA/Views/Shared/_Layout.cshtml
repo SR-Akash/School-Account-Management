@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - G2_UMA</title>
+
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+        <link rel="stylesheet" href="~/css/Style.css" />
+        <link rel="stylesheet" href="~/css/common.css" />
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+</head>
+
+<body>
+   
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li><a asp-area="" asp-controller="Users" asp-action="Login">Login</a></li>           
+
+                </ul>
+                <form class="navbar-form navbar-right" action="/action_page.php" style="display:float">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search" name="search">
+                        <div class="input-group-btn">
+                            <button class="btn btn-default" type="submit">
+                                <i class="glyphicon glyphicon-search"></i>
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </nav>
+   
+    <partial name="_CookieConsentPartial" />
+
+    <div class="container body-content">
+        @RenderBody()
+
+        <div class="">
+            <hr />
+
+            <footer>
+                <div class="footer" style="background:Black">
+                    <div class="container">
+                        <div class="row">
+                            <!-- About -->
+                            <div class="col-md-3">
+                                <div class="MyHeadline"><h3>Important Links</h3></div>
+
+                                <ul class="list-unstyled link-list myList">
+                                    <li><a href="http://www.moedu.gov.bd/" target="_blank">Ministry of Education</a></li>
+                                    <li><a href="http://www.dshe.gov.bd/" target="_blank">Department of Secondary and Higher Education</a></li>
+                                    <li><a href="http://www.nu.edu.bd/" target="_blank">National university</a></li>
+                                    <li><a href="http://www.naem.gov.bd/" target="_blank">National Academy of Education </a></li>
+                                    <li><a href="http://www.nctb.gov.bd/" target="_blank">Management (Naeem) </a></li>
+
+
+
+                                </ul>
+
+
+
+                            </div><!--/col-md-3-->
+                            <!-- End About -->
+                            <!-- Latest -->
+                            <div class="col-md-3">
+                                <div class="MyHeadline"><h3>Important Links</h3></div>
+
+                                <ul class="list-unstyled link-list myList">
+                                    <li><a href="http://www.banbeis.gov.bd/" target="_blank">Banbase</a></li>
+                                    <li><a href="http://www.dhakaeducationboard.gov.bd/" target="_blank">Secondary and Higher Secondary Education Board, Dhaka</a></li>
+                                    <li><a href="https://www.teachers.gov.bd/" target="_blank">Teachers bathroom</a></li>
+                                    <li><a href="http://www.ugc.gov.bd/en" target="_blank">Bangladesh University Grants Commission</a></li>
+                                    <li><a href="http://www.infokosh.gov.bd/" target="_blank">National e-repository</a></li>
+
+
+
+                                </ul>
+
+
+
+                            </div><!--/col-md-3-->
+                            <!-- End Latest -->
+                            <!-- Link List -->
+                            <div class="col-md-3 ">
+                                <div class="MyHeadline"><h3>Important Links</h3></div>
+                                <ul class="list-unstyled link-list myList">
+                                    <li><a href="https://youtu.be/AdUcrgLqW3E" target="_blank">National anthem</a></li>
+                                    <li><a href="https://youtu.be/YRtLKC1Jk0A" target="_blank">7th March speech</a></li>
+                                    <li><a href="https://youtu.be/laR9Uq-QNe0" target="_blank">Come on, O Baishakh</a></li>
+                                    <li><a href="https://youtu.be/3618Roc3RVU" target="_blank">Ekushey February</a></li>
+                                    <li><a href="http://onlinebanglanewspaperlist.com/" target="_blank">সকল পত্রিকা ও টিভি চ্যানেল</a></li>
+
+                                </ul>
+                            </div><!--/col-md-3-->
+                            <!-- End Link List -->
+                            <!-- Address -->
+                            <div class="col-md-3">
+                                <div class="MyHeadline"><h3>Contact address</h3></div>
+
+
+
+                                <div class="footer-box-text footer-box-text-contact">
+                                    <p><i class="fa fa-map-marker"></i> Address:Uttara,Dhaka-1230 </p>
+                                    <p><i class="fa fa-phone"></i> Phone:01634860323 </p>
+                                    <p><i class="fa fa-envelope"></i> Email: akashtah25@gmail.com</p>
+                                </div>
+
+
+
+                            </div><!--/col-md-3-->
+                            <!-- End Address -->
+                            <div class="col-sm-3">
+                                <div class="text-left">
+
+                                    <a href="http://www.facebook.com" id="fa" class="social fw" target="blank"><img src="~/images/Facebook.png" title="Facebook"></a>
+
+                                    <a href="https://www.linkedin.com/" id="ln" class="social fw" target="blank"><img src="~/images/linkedin32.png" title="Linkedin"></a>
+                                  
+                                    <a href="https://plus.google.com/" id="gp" class="social fw " target="blank"><img src="~/images/gg.png" title="Google Plus"></a>
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </footer>
+        </div>
+</body>
+</html>

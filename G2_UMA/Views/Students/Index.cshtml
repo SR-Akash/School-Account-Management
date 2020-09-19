@@ -1,0 +1,85 @@
+﻿@model IEnumerable<G2_UMA.Models.Students>
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<center><strong><h1 style="background-color:mediumspringgreen;">Admin Panel </h1></strong></center>
+<br />
+<center><strong><h3>List of All Registered Students</h3></strong> </center> 
+
+<p>
+    <a asp-action="Create">Add New Student</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Birth_Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Contact)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Father_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mother_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Class)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Months)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Birth_Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gender)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Contact)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Father_Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Mother_Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Class)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Months.M_Name)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Std_Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Std_Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Std_Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

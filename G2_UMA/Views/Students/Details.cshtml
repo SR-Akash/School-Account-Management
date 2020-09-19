@@ -1,0 +1,70 @@
+﻿@model G2_UMA.Models.Students
+
+@{
+    Layout = "~/Views/Shared/_StudentsLayout.cshtml";
+}
+
+<center><strong><h1 style="background-color:mediumspringgreen;">Students Panel </h1></strong></center>
+<h2>Details of the Students -</h2>
+
+<div>
+   
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Birth_Date)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Birth_Date)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Gender)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Gender)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Contact)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Contact)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Father_Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Father_Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Mother_Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Mother_Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Class)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Class)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Months)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Months.M_Name)
+        </dd>
+    </dl>
+</div>
+

@@ -1,0 +1,24 @@
+﻿@model G2_UMA.Models.Fees
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Fees</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.F_Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.F_Name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Fee_Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
